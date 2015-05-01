@@ -1,0 +1,28 @@
+{
+  "author": "Dennis Torres <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/derby-detect-webp/issues"
+  },
+  "dependencies": {
+    "lodash": "^3.7.0",
+    "ua-parser-js": "^0.7.6"
+  },
+  "description": "Webp feature detection for for Derby JS.",
+  "keywords": [
+    "derby",
+    "detect",
+    "feature",
+    "image",
+    "support",
+    "webp"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "derby-detect-webp",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/derby-detect-webp.git"
+  },
+  "version": "1.0.1"
+}
